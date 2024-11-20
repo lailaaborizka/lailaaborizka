@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, Data Engineering, Computer Vision, NLP, and AI.
 - 🌱 I’m currently learning about advanced Computer Vision techniques, deep learning architectures, and real-time data processing.
 - 💞️ I’m looking to collaborate on projects involving AI, machine learning, data analytics, and innovative technology solutions in dynamic environments.
-- 📫 How to reach me: You can email me at [lailaaborizka@gmail.com](mailto:lailaaborizka@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/laila-aborizka).
+- 📫 How to reach me: You can email me at [lailaaborizka@gmail.com](mailto:lailaaborizka@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/laila-aborizka-a72955231/).
 - ⚡ Fun fact: I have a tongue so long, it can reach my nose – talk about a *real* superpower! 😜
 
 <!---
