@@ -43,7 +43,7 @@ Ambitious and driven Machine Learning Engineer with a strong background in data 
 
 ### 📜 Certifications
 - **Machine Learning Cross-Skilling Nanodegree** — Udacity  
-  [Certification Link](www.udacity.com/certificate/e/78866fe0-e2ad-11ec-b439-8fba509ff1ca)
+  [Certification Link](http://www.udacity.com/certificate/e/78866fe0-e2ad-11ec-b439-8fba509ff1ca)
 
 ### 💡 Projects
 #### AI Trading Platform  
